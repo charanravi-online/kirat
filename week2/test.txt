@@ -1,1 +1,3 @@
-hello
+this is a test file 'test.txt' containing sample text.
+If you're reading this from the terminal after executing readFile.js file,
+it means the code is working as expected. You are able to read the contents of 'test.txt'.
